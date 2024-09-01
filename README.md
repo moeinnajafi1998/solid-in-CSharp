@@ -49,7 +49,3 @@ This repository includes C# code examples demonstrating each SOLID principle. Yo
 ## Contributing
 
 Contributions are welcome! If you have any examples, improvements, or suggestions, feel free to open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
