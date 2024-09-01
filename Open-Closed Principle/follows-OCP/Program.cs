@@ -1,4 +1,7 @@
-﻿public abstract class Discount
+﻿// The Open/Closed Principle (OCP) is another SOLID principle in object-oriented design. 
+// It states that software entities (like classes, modules, functions, etc.) should be open for extension but closed for modification. 
+// This means you should be able to add new functionality without changing existing code.
+public abstract class Discount
 {
     public abstract decimal ApplyDiscount(decimal amount);
 }
